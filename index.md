@@ -11,5 +11,5 @@ Below you can find personal, academic, or academic and team projects. If you hav
 [Carrier Optimization Case](/Projects/PluvioCarry.html)
 
 
-### Test linking
-[Go to Test Link Site - Code Folder](/code/index.md)
+// ### Test linking
+// [Go to Test Link Site - Code Folder](/code/index.md)
