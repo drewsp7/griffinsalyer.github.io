@@ -8,8 +8,7 @@ Here you can see work that is either on-going or completed. The work will be sep
 
 <a href="https://griffinsalyer.github.io/MWVpresentation.html"> MeadWestVaco Case Presentation </a>
 
-
-
+[Carrier Optimization Case](/Projects/MWVpresentation.html)
 
 
 # Test linking
