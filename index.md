@@ -8,7 +8,7 @@ Below you can find personal, academic, or academic and team projects. If you hav
 
 ### Case Projects
 
-[Carrier Optimization Case](/Projects/PlucioCarry.html)
+[Carrier Optimization Case](/Projects/PluvioCarry.html)
 
 
 ### Test linking
