@@ -1,13 +1,15 @@
-## Welcome to Griffin Salyer's GitHub Portfolio Showcase! 
+## Welcome to Griffin's Portfolio! 
 
-Here you can see work that is either on-going or completed. The work will be separated by folders and organized by content. Employers can refer to my Resume for contact or questions. 
+Below you can find personal, academic, or academic and team projects. If you have question, concerns or comments please refer to my resume for my contact - additional information can be found in the readme.md file in my github repository [here](https://github.com/griffinsalyer/griffinsalyer.github.io).
 
 
 
-# Case Projects
+
+
+### Case Projects
 
 [Carrier Optimization Case](/Projects/MWVpresentation.html)
 
 
-# Test linking
+### Test linking
 [Go to Test Link Site - Code Folder](/code/index.md)
