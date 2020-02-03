@@ -1,9 +1,7 @@
-# Theoretical Overview
+# Notebooks for Polynomial Regression and Step Function
 ------
 [Framing the Mentality](/code/Theoretical.html)  
 
-
-# Notebooks for Polynomial Regression and Step Function
 ------
 ### Lab | 7.8.1 | pg. 287 ISLR
 
