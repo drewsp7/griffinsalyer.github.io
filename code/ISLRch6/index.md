@@ -7,11 +7,11 @@
 ------
 ### Lab | 7.8.1 | pg. 287 ISLR
 
-[Lab 7.8.1 Walkthrough](/code/polyandstepR.html)
+[Lab 7.8.1 Walkthrough](/code/GSPolyStep.html)
 
 
 ### Applied Exercise | Question 6 | pg. 299 ISLR
 
-[Applied Exercise Walkthrough](/code/AppCh7PolyStep.html)
+[Applied Exercise Walkthrough](/code/GSAppPolyStep.html)
 
 
