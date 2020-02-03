@@ -6,7 +6,7 @@ This site is meant to showcase some of my completed projects. Additionally, the 
 
 ### Case Projects
 
-[Carrier Optimization Case](/Projects/PluvioCarry.html)
+[Carrier Optimization Case](/PluvioProject/index.md)
 
 
 ### ISLR Notebooks - Machine Learning
