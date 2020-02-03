@@ -11,7 +11,7 @@ This site is meant to showcase some of my completed projects. Additionally, the 
 
 ### ISLR Notebooks - Machine Learning
 
-[Notebook Walkthroughs](/ISLRch7/index.md)
+[Chapter 7 Notebook](/ISLRch7/index.md)
 
 
 
