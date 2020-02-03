@@ -11,5 +11,6 @@ Below you can find personal, academic, or academic and team projects. If you hav
 [Carrier Optimization Case](/Projects/PluvioCarry.html)
 
 
+### ISLR Notebooks - Machine Learning
 
-
+[Notebook Walkthroughs](/code/ISLRch6/index.md)
