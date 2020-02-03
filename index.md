@@ -1,9 +1,7 @@
 ## Welcome to Griffin's Portfolio! 
-
-Below you can find personal, academic, or academic and team projects. If you have question, concerns or comments please refer to my resume for my contact - additional information can be found in the readme.md file in my github repository [here](https://github.com/griffinsalyer/griffinsalyer.github.io).
-
-
 -----
+
+This site is meant to showcase some of my completed projects. Additionally, the idea of this site is to not only show the work I have done, but to also present my progression over time, and the evolution of the completeness of the projects as I learn more in the field. Please bear with me, the projects posted here may be complete - but usually serve as learning opportunities for me to construct my skills in analytics. Keep this in mind, and send me feedback if you think something could be improved! Thank you!
 
 
 ### Case Projects
@@ -14,3 +12,11 @@ Below you can find personal, academic, or academic and team projects. If you hav
 ### ISLR Notebooks - Machine Learning
 
 [Notebook Walkthroughs](/code/ISLRch7/index.md)
+
+
+
+
+
+
+Find these files in my Github repository [here](https://github.com/griffinsalyer/griffinsalyer.github.io).
+
