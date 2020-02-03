@@ -13,4 +13,4 @@ Below you can find personal, academic, or academic and team projects. If you hav
 
 ### ISLR Notebooks - Machine Learning
 
-[Notebook Walkthroughs](/code/ISLRch6/index.md)
+[Notebook Walkthroughs](/code/ISLRch7/index.md)
