@@ -24,7 +24,7 @@ ISLR Chapter 6
 
 ISLR Chapter 7
 
-[Notebook Walkthrough Ch. 7](/code/ISLRch7/index.md)
+[Notebook Walkthrough Ch. 7](/ISLRch7/index.md)
 
 ISLR Chapter 8
 
